@@ -32,13 +32,13 @@ Version 5 Tools are completely Standalone, you dont have to override anything.
 
 ---
 
-### Blends Tool
-### Curb Plus Tool
-### Fence Plus Tool
-### Parking Stall Plus Tool
-### Street Decoration Plus Tool
-### Decoration Tool
-### Brush Tool
+## Blends Tool
+## Curb Plus Tool
+## Fence Plus Tool
+## Parking Stall Plus Tool
+## Street Decoration Plus Tool
+## Decoration Tool
+## Brush Tool
 
 ---
 
