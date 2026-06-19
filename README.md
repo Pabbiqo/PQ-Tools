@@ -10,25 +10,29 @@ Version: July 2026 – v5.0
 
 ## 🔧 Installation (Build 42 Official Tools)
 
-Version 5 is a Complete Overhaul from the PQ-Tools, tested for Official B42 Tools.
-Make sure, that you dont have installed old PQ-Tools
-Version 5 Tools are completely Standalone, you dont have to override anything.
+Version 5 is a complete overhaul of the PQ Tools and has been tested with the official B42 tools.
 
-1. Put LuaTools.txt into your Tiled folder. You getting asked, if you want to replace it - Yes
-   - This `LuaTools.txt` only contain PQ-Tools, if you want to have Vanilla Tiled Tools for whatever reason, i include a `LuaTools+Vanilla.txt` - rename it to `LuaTools.txt` if you want to have Vanilla Tools too - i dont recommend it, because all the PQ-Tools have everything also Vanilla Tiled Tools have. You decide
-2. Then copy all the **pq-tools** Lua files from the folder **lua** into `Tiled/lua`.
+Make sure you do not have any older PQ Tools installed.
+
+Version 5 Tools are completely standalone, so you do not have to overwrite anything.
+
+1. Put `LuaTools.txt` into your Tiled folder.
+   - This `LuaTools.txt` contains only the PQ Tools. If you want to keep the vanilla Tiled tools for whatever reason, I have included a `LuaTools+Vanilla.txt`. Rename it to `LuaTools.txt` if you want to have the vanilla tools as well. I do not recommend it, because the PQ Tools already include everything the vanilla Tiled tools provide. The choice is yours.
+2. Then copy all **pq-tools** Lua files from the **lua** folder into `Tiled/lua`.
 
 ---
 
 ## Key-Features
 
-![1](https://github.com/Pabbiqo/PQ-Tools/blob/main/README.md#blends-tool)- **Blends Tool:**
-![2](https://github.com/Pabbiqo/PQ-Tools/blob/main/README.md#blends-tool)- **Curb Plus Tool:**
-![3](https://github.com/Pabbiqo/PQ-Tools/blob/main/README.md#blends-tool)- **Fence Plus Tool:**
-![4](https://github.com/Pabbiqo/PQ-Tools/blob/main/README.md#blends-tool)- **Parking Stall Plus Tool:**
-![5](https://github.com/Pabbiqo/PQ-Tools/blob/main/README.md#blends-tool)- **Street Decoration Plus Tool:**
-![6](https://github.com/Pabbiqo/PQ-Tools/blob/main/README.md#blends-tool)- **Decoration Tool:**
-![7](https://github.com/Pabbiqo/PQ-Tools/blob/main/README.md#blends-tool)- **Brush Tool:**
+## Key Features
+
+- <img src="images/blends.png" width="22" height="22"> [Blends Tool](#blends-tool)
+- <img src="images/curbplus.png" width="22" height="22"> [Curb Plus Tool](#curb-plus-tool)
+- <img src="images/fenceplus.png" width="22" height="22"> [Fence Plus Tool](#fence-plus-tool)
+- <img src="images/parking.png" width="22" height="22"> [Parking Stall Plus Tool](#parking-stall-plus-tool)
+- <img src="images/streetdecoration.png" width="22" height="22"> [Street Decoration Plus Tool](#street-decoration-plus-tool)
+- <img src="images/decoration.png" width="22" height="22"> [Decoration Tool](#decoration-tool)
+- <img src="images/brush.png" width="22" height="22"> [Brush Tool](#brush-tool)
 
 ---
 
