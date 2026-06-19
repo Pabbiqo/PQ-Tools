@@ -27,6 +27,7 @@ Version 5 Tools are completely standalone, so you do not have to overwrite anyth
 ## Key Features
 
 - <img src="images/pq_blends.png" width="22" height="22"> [Blends Tool](#blends-tool)
+- <img src="images/pq_edgeplus.png" width="22" height="22"> [Edge Plus](#Edge-plus-tool)
 - <img src="images/pq_curbplus.png" width="22" height="22"> [Curb Plus Tool](#curb-plus-tool)
 - <img src="images/pq_fencesplus.png" width="22" height="22"> [Fence Plus Tool](#fence-plus-tool)
 - <img src="images/pq_parkingstall.png" width="22" height="22"> [Parking Stall Plus Tool](#parking-stall-plus-tool)
@@ -37,8 +38,9 @@ Version 5 Tools are completely standalone, so you do not have to overwrite anyth
 ---
 
 ## Blends Tool
-
 ![Blends Tool](images/pq_blends.png)
+## Edge Plus Tool
+![Edge Plus Tool](images/pq_edgeplus.png)
 ## Curb Plus Tool
 ![Curb Plus Tool](images/pq_curbplus.png)
 ## Fence Plus Tool
