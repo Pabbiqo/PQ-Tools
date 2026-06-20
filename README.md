@@ -100,6 +100,8 @@ Tired of the limited fence selection offered by the vanilla tools?
 
 **Fence Plus** provides access to virtually every fence variation available, along with several quality-of-life improvements.
 
+![1](https://github.com/Pabbiqo/PQ-Tools/blob/main/images/Fence%2B.gif)
+
 ### Features
 
 #### Fence Posts
@@ -153,6 +155,10 @@ One of the largest and most feature-rich tools in the collection.
 ✅ Decorative street assets
 
 ✅ And much more
+
+![1](https://github.com/Pabbiqo/PQ-Tools/blob/main/images/streetdecoration%2B.gif)
+![2](https://github.com/Pabbiqo/PQ-Tools/blob/main/images/streetdecoration%2B2.gif)
+![3](https://github.com/Pabbiqo/PQ-Tools/blob/main/images/streetdecoration%2B3.gif)
 
 ### Placement Modes
 
