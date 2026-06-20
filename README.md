@@ -78,6 +78,8 @@ Curbs are essential for every map, but placing diagonal and angled curbs has alw
 
 **Curb Plus** adds a complete set of curb variations, allowing you to create smooth and detailed road layouts with ease.
 
+![1](https://github.com/Pabbiqo/PQ-Tools/blob/main/images/pq_curb%2B.gif)
+
 ### Features
 - Straight curbs
 - Diagonal curbs
