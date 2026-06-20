@@ -42,6 +42,8 @@ Placing blends has always been one of the most tedious parts of mapping, especia
 
 With the **Blends Tool**, that frustration is a thing of the past. Quickly place the blends you need and spend less time searching through tile variations.
 
+![1](https://github.com/Pabbiqo/PQ-Tools/blob/main/images/pq_blends.gif)
+
 ### Features
 - Faster blend placement
 - Supports all common grass blend variations
