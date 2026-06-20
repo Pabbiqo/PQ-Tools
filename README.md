@@ -118,6 +118,7 @@ Creating double gates is now quick and effortless.
 
 - `ALT` → Place the right gate section
 - `SHIFT` → Place the left gate section
+- `CTRL+SHIFT` → Place 4-tile Gate at once
 
 All supported fence types include matching gate variants where available.
 
