@@ -42,6 +42,8 @@ Placing blends has always been one of the most tedious parts of mapping, especia
 
 With the **Blends Tool**, that frustration is a thing of the past. Quickly place the blends you need and spend less time searching through tile variations.
 
+With Auto Blend wählt es die passende Farb blende, je nach untergrund
+
 ![1](https://github.com/Pabbiqo/PQ-Tools/blob/main/images/pq_blends.gif)
 
 ### Features
@@ -136,6 +138,8 @@ Parking lots deserve more variety.
 - Parking stalls with bumpers
 - Parking stalls without bumpers
 - Parking stalls with curbs
+- Parking stalls with different Lines Colors
+- Parking stalls straight, angled, diagonal
 - Multiple styles and layouts
 
 Choose the design that best fits your project.
@@ -149,18 +153,13 @@ One of the largest and most feature-rich tools in the collection.
 
 **Street Decoration Plus** dramatically expands the available street and infrastructure objects while introducing powerful placement options.
 
-### Included Content
-✅ Diagonal train tracks
-
-✅ Diagonal power lines
-
-✅ Utility objects
-
-✅ Street infrastructure
-
-✅ Decorative street assets
-
-✅ And much more
+### Features
+- Diagonal train tracks
+- Diagonal power lines
+- Utility objects
+- Street infrastructure
+- Decorative street assets
+- And much more
 
 ![1](https://github.com/Pabbiqo/PQ-Tools/blob/main/images/streetdecoration%2B.gif)
 ![2](https://github.com/Pabbiqo/PQ-Tools/blob/main/images/streetdecoration%2B2.gif)
@@ -197,6 +196,7 @@ A comprehensive collection of decorative objects for every type of environment.
 - Street furniture
 - Environmental details
 - Larger decorative objects
+- and much more
 
 Perfect for adding life and detail to your maps.
 
